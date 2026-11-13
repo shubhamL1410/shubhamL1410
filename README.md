@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shubham Lathiya 👋<br>🎓 Final-year B.Tech Computer Engineering student at DDIT, Nadiad<br>💻 Full-Stack Developer with hands-on experience in MERN Stack, Spring Boot, FastAPI, and REST APIs<br>🚀 I build and deploy full-stack applications on Vercel and Render with real-world features like JWT auth, database management, and real-time integrations<br>🌱 Currently exploring DevOps and AWS
+Hi, I'm Shubham Lathiya 👋<br>🎓 Final-year B.Tech Computer Engineering student at DDIT, Nadiad<br>💻 Full-Stack Developer with hands-on experience in MERN Stack, Spring Boot, FastAPI, and REST APIs<br>🚀 I build and deploy full-stack applications on Vercel and Render with real-world features like JWT auth, database management, and real-time integrations<br>
 
 
 ## 🌐 Socials:
